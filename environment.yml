@@ -1,0 +1,15 @@
+name: footyml
+channels:
+  - defaults
+dependencies:
+  - scipy
+  - numpy
+  - requests
+  - matplotlib
+  - jupyterlab
+  - pandas
+  - pip
+  - scikit-learn
+  - jupyter-dash
+  - python-dotenv
+prefix: /opt/anaconda3/envs/footyml

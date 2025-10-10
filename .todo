@@ -1,0 +1,6 @@
+completed:
+    concat all season's game into a single dataframe (df1, df2, df3, df4, df5)
+    Handle missing data: Impute with means/medians (e.g., player ratings) and/or dropping rows
+
+
+todo:
