@@ -3,4 +3,27 @@ completed:
     Handle missing data: Impute with means/medians (e.g., player ratings) and/or dropping rows
 
 
-todo:
+todo: 13Oct
+    - feature engineering
+        - home_advantage
+        - player_stats (average player ratings, key players)
+        - recent_form   
+        - head_to_head
+        - team_strength - league position, goals scored/conceded, win/loss streaks
+        - 
+    - exploratory data analysis (EDA)
+        - visualize distributions of key features
+        - correlation analysis
+        - insights from EDA to inform feature selection and engineering
+    - model selection and training
+        - choose algorithms (logistic regression, random forests, gradient boosting, etc.)
+        - train models using historical data
+        - hyperparameter tuning
+    - model evaluation
+        - cross-validation
+        - metrics (accuracy, precision, recall, F1-score)
+    - deployment
+        - create a pipeline for data preprocessing and model prediction
+        - deploy model using Flask/Django or cloud services (AWS, GCP, Azure)
+
+
