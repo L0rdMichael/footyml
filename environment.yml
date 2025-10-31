@@ -12,4 +12,5 @@ dependencies:
   - scikit-learn
   - jupyter-dash
   - python-dotenv
+  - seaborn
 prefix: /opt/anaconda3/envs/footyml
